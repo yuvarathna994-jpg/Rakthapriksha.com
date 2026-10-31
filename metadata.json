@@ -1,0 +1,6 @@
+{
+  "name": "Rakthapariksha.com",
+  "description": "100% Indian-based diagnostic blood test app for Indians. All samples processed in NABL (National Accreditation Board of Laboratories) certified labs with single-screen GPS & UPI QR booking, live order tracking, and AES-256 health data encryption.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
